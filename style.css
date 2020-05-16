@@ -87,6 +87,7 @@ li {
   width: 104px;
   height: 104px;
   background-color: #4ec6ab;
+  border: none;
 }
 .button-left button {
   float: left;
